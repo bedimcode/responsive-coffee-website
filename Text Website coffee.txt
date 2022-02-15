@@ -1,0 +1,140 @@
+========== HOME ==========
+.home__title
+Choose Your Favorite Coffee And Enjoy<span>.</span>
+
+.home__description
+Buy the best and delicious coffees.
+
+.home__data-number | .home__data-title | .home__data-description
+120K
+Testimonials
+Testimonials from various customers who trust us.
+
+340+
+Exclusive Product
+Premium preparation with quality ingredients.
+
+========== ESPECIALTY ==========
+.section__subtitle
+Specialty coffees that make you happy and cheer you up!
+
+.specialty__title | .specialty__description
+Selected Coffee
+We select the best premium coffee, for a true taste.
+
+Delicious Cookies
+Enjoy your coffee with some hot cookies
+
+Enjoy at Home
+Enjoy the best coffee in the comfort of your home.
+
+========== PRODUCTS ==========	
+.section__subtitle
+Choose our delicious and best products
+
+.products__title | .products__stock
+New Delicacies
+3 products
+
+Hot Coffee
+4 products
+
+Cakes And Delicacies
+4 products
+
+.products__price | .products__name
+$5
+Cookies
+
+$6
+Croissant
+
+$4
+Croissant
+
+------------
+$7
+Black Coffee
+
+$12
+Pure Coffee
+
+$9
+Milk Coffee
+
+$9
+Moka Coffee
+
+------------
+$6
+Cream Cake
+
+$5
+Chocolate Croissant
+
+$15
+Pancake
+
+$12
+Milk Cake
+
+========== QUALITY ==========
+.section__subtitle
+We offer a premium and better quality preparation just for you!
+
+.quality__title
+Premium Coffee
+
+.quality__price
+$94.99
+
+.quality__special
+Especial Price
+
+.quality__description
+We are delighted with our coffee. That's why you get the best 
+premium coffee plus the kettle made of resistant materials that 
+you see in the image, for a special price.
+
+========== BLOG  ==========
+.section__subtitle
+Our Blogs Coffee with trending topic for this week
+
+.blog__title | .blog__description
+10 Coffee Recommendations
+The blogs about coffee will help you a lot about 
+how it is prepared, its waiting time, for a good 
+quality coffee.
+
+12 Benefits Of Drinking Coffee
+The blogs about coffee will help you a lot about 
+how it is prepared, its waiting time, for a good 
+quality coffee.
+
+========== FOOTER ==========
+.footer__title
+Coffee.
+
+.footer__description
+Subscribe to our newsletter
+
+.footer__subtitle | .footer__information
+Address
+9876 Hacienda Av. <br>
+Lima, La Libertad 123, Perú
+
+Contact
++987654321 <br>
+coffee@email.com
+
+Office
+Monday - Saturday <br>
+9AM - 10PM
+
+.footer__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+
+.footer__copy
+&#169; Bedimcode. All rigths reserved
